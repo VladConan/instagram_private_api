@@ -2,10 +2,10 @@
 class Constants(object):
     """Constants holder class that stores the bulk of the fixed strings used in the library."""
 
-    IG_SIG_KEY = "c36436a942ea1dbb40d7f2d7d45280a620d991ce8c62fb4ce600f0a048c32c11" #'19ce5f445dbfd9d29c59dc2a78c616a7fc090a8e018b9267bc4240a30244c53b'
-    IG_CAPABILITIES = '3brTvw=='
+    IG_SIG_KEY = "46024e8f31e295869a0e861eaed42cb1dd8454b55232d85f6c6764365079374b"
+    IG_CAPABILITIES = '3brTvwM='
     SIG_KEY_VERSION = '4'
-    APP_VERSION = '112.0.0.18.152'
+    APP_VERSION = "136.0.0.34.124"
     APPLICATION_ID = '567067343352427'
     FB_HTTP_ENGINE = 'Liger'
 
